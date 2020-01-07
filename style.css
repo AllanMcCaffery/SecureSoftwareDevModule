@@ -1,0 +1,40 @@
+.error {
+	color: red;
+}
+
+.form {
+	min-width:500px;
+}
+.labels {
+	float:left;
+	line-height:1.7em;
+	padding-right:.8em;
+}
+
+.inputs {
+	line-height:1.7em;
+}
+
+textarea {
+    resize: none;
+}
+
+#scrolltable {
+	margin-top: 20px;
+	height: 500px;
+	overflow: auto;
+}
+
+#scrolltable table {
+	border-collapse: collapse;
+}
+
+.viewticketstable td {
+padding: 10px;
+border-bottom: 1pt solid black;
+}
+
+.viewComments td {
+padding: 10px;
+border-bottom: 1pt solid black;
+}
